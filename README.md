@@ -1,3 +1,7 @@
+<div class="align-center">
+<img src="https://i.ibb.co/PMR5W1t/kamrujjaman-github-cover.png" alt="cover photo" />
+</div>
+
 # Hi, I'm Kamrujjaman Rony <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I am a MERN Stack Developer with a huge love for React.js, Node.js, Express.js, MongoDB, JavaScript, HTML, CSS, TailwindCSS and Firebase. I have a lot of fun doing Web Development, Even I am very interested in solving new Problems. I love to read books and to travel many new places.
@@ -31,5 +35,5 @@ I am a MERN Stack Developer with a huge love for React.js, Node.js, Express.js, 
 
 ## Contact Me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]() 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamrujjaman-rony-1b4511251/) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kmRony1997/) 
